@@ -6,4 +6,5 @@ Things I learned
 - commit files
 - git status
 - git log
+- git push
 
